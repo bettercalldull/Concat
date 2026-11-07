@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/concat-mark-dark.png" alt="Concat" width="100" />
+  <img src="assets/concat-mark-dark.png" alt="Comot" width="100" />
 </p>
 
-<h1 align="center">Concat</h1>
+<h1 align="center">Comot — Concat local fork</h1>
+
+> Local-use Comot branding branch, based on [jub0t/Concat](https://github.com/jub0t/Concat). Original authorship, AGPL licensing and third-party notices are retained. See [COMOT-FORK.md](COMOT-FORK.md) for maintenance and build status.
 <h3 align="center">The free, open-source, cross-platform video editor.</h3>
 
 <div align="center">
